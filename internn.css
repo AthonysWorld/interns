@@ -1,0 +1,124 @@
+
+
+.onediv{position: relative;
+    background-color: #f2aa4c;
+    padding: 40px;
+    margin-bottom: 10%;
+    height: 300px;
+    color: black;
+}
+.mypic{position: absolute;
+    left: 20px;
+    height: 300px;
+    width: 300px;
+    margin-bottom: 40px;
+    border-radius: 100%;
+}
+.comp{position: absolute;
+    margin-left: 70%;
+    right: 200px;
+    height: 180px;
+    width: 180px;
+    border-radius: 100%;
+}
+.skills1{padding-left: 100px;
+    padding-bottom: 20px;
+    text-align: left;
+    color: #f2aa4c;
+    padding: 10px;
+    margin-left: 50px;
+    
+}
+.get{
+    padding-bottom: 5px;
+}
+h1{
+    color: black;
+}
+body{
+    margin: 0%;
+    color: #f2aa4c;
+    background-color: black;
+    text-align: center;
+    padding: 0;
+    margin-bottom: 0;
+}
+.nav{
+    line-height: 5px;
+    position: absolute;
+    right: 30px;
+    top: 20px;
+}
+.nav:hover{
+    color: blue;
+}
+.des{
+    padding-bottom: 70px;
+    text-align: center;
+}
+.bottom-container{
+    background-color: #f2aa4c;
+    color: black;
+    margin-bottom: 0;
+}
+hr{
+    border: dotted 6px;
+     color: #f2aa4c;
+     width: 4%;
+     border-bottom: none;
+     margin: 100px auto;
+}
+.btn {
+    background: black;
+    -webkit-border-radius: 25;
+    -moz-border-radius: 25;
+    border-radius: 25px;
+    font-family: Arial;
+    color: #f2aa4c;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+}
+.btn2{
+    background: #f2aa4c;
+    font-size: 20px;
+    border-radius: 25px;
+    color: black;
+    -webkit-border-radius: 25;
+    -moz-border-radius: 25;
+    font-family: Arial;
+    padding: 10px 20px 10px 20px;
+}
+.code{
+    margin-right: 5%;
+    height: 150px;
+    width: 180px;
+    
+}
+.pack{
+    padding-bottom: 20px;
+    text-align: left;
+    background-color: black;
+    padding: 10px;
+}
+.divy{
+    position: relative;
+    right: 250px;
+    width: auto;
+    top: -120px;
+}
+.pacakage{position: absolute;
+    left: 390px;
+}
+.bottom-container{
+margin-bottom: 0%;    
+}
+.contact-me{
+    background: #f2aa4c;
+    margin: 0%;
+    color: black;
+}
+.skills2{
+    margin-bottom: 0%;
+}
+
+
